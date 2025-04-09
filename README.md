@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -165,7 +164,7 @@
     </aside>
   </main>
   <footer>
-    <p>&copy; 2022, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+    <p>&copy; Olumuyiwa Akinde, oa356, 2025</p>
   </footer>
 </body>
 
